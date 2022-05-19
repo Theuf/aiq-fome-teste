@@ -1,0 +1,23 @@
+{
+  "name": "aiq-fome",
+  "version": "1.0.0",
+  "description": "Projeto teste de validação",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Theuf/aiqfome.git"
+  },
+  "author": "Matheus Marcena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Theuf/aiqfome/issues"
+  },
+  "homepage": "https://github.com/Theuf/aiqfome#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
